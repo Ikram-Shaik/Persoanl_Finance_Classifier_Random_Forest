@@ -107,7 +107,7 @@ Then visit: `http://localhost:8501`
 
 ## 📸 Screenshots
 
-*Add screenshots of your Streamlit UI here to showcase the project interface.*
+image.png
 
 ---
 
