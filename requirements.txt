@@ -1,0 +1,7 @@
+streamlit
+pandas
+joblib
+numpy
+plotly
+pillow
+scikit-learn==1.3.2
