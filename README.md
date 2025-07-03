@@ -1,6 +1,3 @@
----
-
-```markdown
 # 📊 Personal Finance Classifier
 
 A Streamlit-based machine learning web application that predicts a user’s financial personality — **Saver**, **Spender**, or **Neutral** — based on their income, expenses, lifestyle habits, and hobbies. This project uses a Random Forest classifier trained with clean, preprocessed financial data and is packaged using Docker for easy deployment.
@@ -31,7 +28,7 @@ A Streamlit-based machine learning web application that predicts a user’s fina
 
 ## 📁 Project Structure
 
-```
+
 
 .
 ├── app.py                            # Streamlit frontend
@@ -132,8 +129,3 @@ See the [LICENSE](LICENSE) file for more details.
 ---
 
 > Made with ❤️ using Python and Streamlit
-
-```
-
-Let me know if you'd like a `requirements.txt`, `.gitignore`, or a GitHub banner!
-```
