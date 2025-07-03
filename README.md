@@ -28,8 +28,6 @@ A Streamlit-based machine learning web application that predicts a user’s fina
 
 ## 📁 Project Structure
 
-
-
 .
 ├── app.py                            # Streamlit frontend
 ├── model/                            # ML model files
@@ -124,7 +122,7 @@ See the [LICENSE](LICENSE) file for more details.
 
 **Ikram Shaik**
 🔗 [GitHub](https://github.com/Ikram-Shaik)
-🔗 [LinkedIn](https://www.linkedin.com/in/ikramshaik)
+🔗 [LinkedIn](https://www.linkedin.com/in/ikram-shaik-/)
 
 ---
 
