@@ -105,9 +105,9 @@ Then visit: `http://localhost:8501`
 
 ---
 
-## 📸 Screenshots
+## 📸 Live Link
 
-image.png
+🔗 [Hugging_Spaces](https://huggingface.co/spaces/Ikram-Shaik/Personal_Finance_Classifier)
 
 ---
 
